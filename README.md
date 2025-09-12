@@ -13,3 +13,8 @@ Você deve criar um sistema para calcular o valor total de um pedido, consideran
 # Modelo Conceitual:
 ![Modelo Conceitual](https://github.com/pedrohf0001/assets/blob/efdc9642696f5ef043e6abfc9b1ed5e1f354b3c1/Desafio1/Componentes%20e%20inje%C3%A7%C3%A3o%20de%20depend%C3%AAncia.jpg) 
 
+# Autor
+
+Pedro Henrique Fonseca
+
+www.linkedin.com/in/pedro-fonseca-14a65a118
